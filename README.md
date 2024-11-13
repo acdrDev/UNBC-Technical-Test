@@ -32,7 +32,5 @@
   ```
   
 > Note: first user credentials are:
-<br/>
 > Email: admin@admin.com
-<br/>
 > Password: password
